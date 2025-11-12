@@ -1,0 +1,5 @@
+{
+  "name": "Workshop Certificate Portal",
+  "description": "A web application for students to register for a workshop, and then log in to view and download their certificate of completion. Access to the login portal can be toggled by an administrator.",
+  "requestFramePermissions": []
+}
